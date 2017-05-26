@@ -1,1 +1,1 @@
-"#TeacherTalk built in Python with the Django Framework" 
+#TeacherTalk built in Python with the Django Framework
